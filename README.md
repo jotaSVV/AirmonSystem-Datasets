@@ -1,13 +1,7 @@
 # Airmon Project Dataset
 
 This repository contains datasets created using environment variables from the Airmon project at Universidade Fernando Pessoa.
-Table of Contents
 
-    About the Airmon Project
-    Dataset Description
-    Usage
-    Contributing
-    License
 
 ## About the Airmon Project
 
