@@ -24,11 +24,11 @@ To use these datasets, follow these steps:
 
     bash
 
-	git clone https://github.com/jotaSVV/UFP-PublicDataset.git
+git clone https://github.com/jotaSVV/UFP-PublicDataset.git
 
 Navigate to the repository:
 
-	bash
+bash
 
     cd airmon-dataset
 
